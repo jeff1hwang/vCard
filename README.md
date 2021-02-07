@@ -18,5 +18,9 @@
 ![image1](https://www.seoxiehui.cn/data/attachment/portal/202008/10/185506dkldttsd5lswulo5.jpg)
 
 
+## 二：暗夜版本预览
 
+该版本需引入css文件(style-dark.css)，可用js来控制，在前端制作切换按钮
+
+![image2](https://www.seoxiehui.cn/data/attachment/portal/202008/10/185507bbp86pcc6pgpa1qk.jpg)
 
