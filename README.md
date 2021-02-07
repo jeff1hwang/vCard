@@ -13,3 +13,10 @@
 * 现代编码
 * W3C HTML有效代码
 
+## 一：白色版本预览
+
+![image1](https://www.seoxiehui.cn/data/attachment/portal/202008/10/185506dkldttsd5lswulo5.jpg)
+
+
+
+
